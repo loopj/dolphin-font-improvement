@@ -1,0 +1,4 @@
+build/
+*.elf
+*.elf.map
+*.dol
